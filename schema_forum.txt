@@ -1,1 +1,17 @@
 Copy your URL to screenshot here
+
+Schema image on this folder, thanks.
+
+1. User dapat submit cerita,
+Note : Cerita hanya bisa di buat oleh satu user
+Jadi, user one-to-many cerita
+
+2. User dapat melakukan upvote atau downvote
+Note: satu user hanya bisa memberi sekali vote pada setiap cerita
+
+3. User dapat mengomentari cerita
+Note : User dapat berkomentar lebih dari satu kali tiap cerita dan bisa berkomentar di banyak cerita
+Jadi, user one-to-many komentar. karena komentar belongs to a user
+
+4. User dapat membalas komentar
+Note : User dapat membalas komentar dirinya sendiri atau user lain.
